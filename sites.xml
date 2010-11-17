@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<sites>
+    <site>
+        <disabled>0</disabled>
+        <sitename>Google</sitename>
+        <url>http://www.google.com/</url>
+        <rules>
+            <rule type="text">
+                Google
+            </rule>
+        </rules>
+    </site>
+    <site>
+        <disabled>0</disabled>
+        <sitename>/.</sitename>
+        <url>http://slashdot.org/</url>
+        <rules>
+            <rule type="text">
+                News for nerds, stuff that matters
+            </rule>
+        </rules>
+    </site>
+    <site>
+        <disabled>0</disabled>
+        <sitename>Reddit</sitename>
+        <url>http://www.reddit.com/</url>
+        <rules>
+            <rule type="text">
+                what's hot
+            </rule>
+        </rules>
+    </site>
+    <site>
+        <disabled>0</disabled>
+        <sitename>twitter</sitename>
+        <url>http://twitter.com/</url>
+        <rules>
+            <rule type="text">
+                The best way to discover
+            </rule>
+        </rules>
+    </site>
+</sites>

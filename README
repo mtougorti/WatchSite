@@ -1,0 +1,5 @@
+Project Name : WatchSite
+------------------------
+Description : A simple python script to ensure the availibility of internet web site based on user defined rule (presence of image, some text, etc.)
+
+As of current version it use an xml file to define users rule. Check sites.xml as for an exemple
